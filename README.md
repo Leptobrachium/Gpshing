@@ -11,13 +11,11 @@ To use this classifier, you need to have BirdNET installed. Follow the installat
 
 ## Training Data
 The full training dataset used to develop this classifier is available on Zenodo:
+
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13826911.svg)
 
 ## Contact
-For questions or suggestions, feel free to open an issue or click the graphic below to email me.
+For questions or suggestions, feel free to contact me at franco.leung@my.jcu.edu.au
 
-<a href="mailto:franco.leung@my.jcu.edu.au">
-    <img src="https://via.placeholder.com/100x30.png?text=Mail+Me!" alt="Mail Me!" style="border: none;" />
-</a>
 
 
