@@ -13,7 +13,7 @@ To use this classifier, you need to have BirdNET installed. Follow the installat
 ## Training Data
 The full training dataset used to develop this classifier is available on Zenodo:
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13826911)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13826911)](https://doi.org/10.5281/zenodo.13826911)
 
 ## Contact
 For questions or suggestions, feel free to contact me at franco.leung@my.jcu.edu.au
