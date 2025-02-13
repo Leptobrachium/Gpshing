@@ -9,7 +9,7 @@ This repository provides a freely available and user-friendly acoustic classifie
 ## Workflow
 
 <p align="center">
-  <img src="images/workflow_diagram.jpg" alt="Workflow Diagram" width="500">
+  <img src="[images/workflow_diagram.jpg](https://github.com/Leptobrachium/Gpshing/blob/main/Classifier%20Development%20Workflow.jpg)" alt="Workflow Diagram" width="500">
 </p>
 
 The classifier development follows a structured workflow:
