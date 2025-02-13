@@ -1,14 +1,14 @@
-## Cane Toad Acoustic Classifier: A Free Tool for Monitoring Invasive Cane Toads in Australia
+# Cane Toad Acoustic Classifier: A Free Tool for Monitoring Invasive Cane Toads in Australia
 
-# Overview #
+## Overview 
 
 This repository provides a freely available and user-friendly acoustic classifier for detecting the invasive cane toad (*Rhinella marina*) across Australia. The classifier was developed using BirdNET, a deep-learning-based species recognition algorithm, and trained on a large-scale passive acoustic monitoring (PAM) dataset from the Australian Acoustic Observatory (A2O).
 
-# Workflow #
+## Workflow 
 
 The classifier development follows a structured workflow, as illustrated below:
 
-1. Data Generation
+**1. Data Generation**
 
 - Cane toad calls were extracted from field recordings.
 
