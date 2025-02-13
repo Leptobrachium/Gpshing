@@ -34,7 +34,7 @@ The classifier development follows a structured workflow, as illustrated below:
 
 **5. Classifier Performance Assessment**
 
-- Validation was conducted using manual verification of randomly sampled detections.
+- Validation was conducted using manual validation of randomly sampled detections.
 
 
 **6. Detections Optimization (Optional)**
