@@ -8,7 +8,7 @@ This repository provides a freely available and user-friendly acoustic classifie
 
 ## Workflow
 
-The classifier development follows a structured workflow:
+The structured workflow and scripts provided can be used to reproduce the classifier from the paper. However, they are also adaptable, allowing users to apply their own data, choose a different pre-trained model, select alternative software, and customize the code to fit their specific needs.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Leptobrachium/Gpshing/main/Classifier%20Development%20Workflow.jpg" alt="Workflow Diagram" width="500" height="800">
