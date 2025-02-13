@@ -6,7 +6,10 @@ This repository provides a freely available and user-friendly acoustic classifie
 
 ## Workflow 
 
-![Workflow Diagram](https://github.com/Leptobrachium/Gpshing/blob/main/Classifier%20Development%20Workflow.jpg)
+<p align="center">
+  <img src="images/workflow_diagram.jpg" alt="Workflow Diagram" width="500">
+</p>
+
 The classifier development follows a structured workflow, as illustrated below:
 
 **1.  Data Generation**
