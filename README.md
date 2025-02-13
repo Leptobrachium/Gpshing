@@ -8,11 +8,11 @@ This repository provides a freely available and user-friendly acoustic classifie
 
 ## Workflow
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leptobrachium/Gpshing/main/Classifier%20Development%20Workflow.jpg" alt="Workflow Diagram" width="400" height="600">
-</p>
-
 The classifier development follows a structured workflow:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leptobrachium/Gpshing/main/Classifier%20Development%20Workflow.jpg" alt="Workflow Diagram" width="480" height="600">
+</p>
 
 ### **1. Data Generation**
 - Cane toad calls were extracted from A2O data.
