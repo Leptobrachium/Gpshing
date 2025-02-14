@@ -28,10 +28,10 @@ The structured workflow and scripts provided can be used to reproduce the classi
 
 ### **4. Audio Analysis**
 - The classifier was applied to the full dataset.
-- Probabilistic thresholds were computed to assess detection confidence.
 
 ### **5. Classifier Performance Assessment**
 - Validation was conducted using manual verification of randomly sampled detections.
+- Probabilistic thresholds were computed to assess detection confidence.
 
 ### **6. Detections Optimization (Optional)**
 - Aggregated time-series features (ATF) were used to refine detection outputs.
