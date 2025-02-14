@@ -31,7 +31,7 @@ The structured workflow and scripts provided can be used to reproduce the classi
 
 ### **5. Classifier Performance Assessment**
 - Validation was conducted using manual verification of randomly sampled detections.
-- Probabilistic thresholds were computed to assess detection confidence.
+- Probabilistic thresholds were computed to assess detection performance.
 
 ### **6. Detections Optimization (Optional)**
 - Aggregated time-series features (ATF) were used to refine detection outputs.
