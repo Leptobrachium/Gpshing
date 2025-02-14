@@ -23,7 +23,7 @@ The structured workflow and scripts provided can be used to reproduce the classi
 - Additional non-target vocalizations and background noise were included to enhance performance.
 
 ### **3. Preliminary Assessment**
-- The trained classifier was tested on a subset of audio data from selected A2O sites.
+- The trained classifier was tested on a subset of audio data from A2O.
 - Performance metrics such as precision, recall, and accuracy were evaluated across multiple temporal scales.
 
 ### **4. Audio Analysis**
