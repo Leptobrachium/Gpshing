@@ -15,7 +15,7 @@ The structured workflow and scripts provided can be used to reproduce the classi
 </p>
 
 ### **1. Data Generation**
-- Cane toad calls were extracted from A2O data.
+- Cane toad sample call was download from A2O.
 - Training and testing datasets were generated using template detection methods.
 
 ### **2. Classifier Training**
