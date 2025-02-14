@@ -14,26 +14,26 @@ The structured workflow and scripts provided can be used to reproduce the classi
   <img src="https://raw.githubusercontent.com/Leptobrachium/Gpshing/main/Classifier%20Development%20Workflow.jpg" alt="Workflow Diagram" width="500" height="800">
 </p>
 
-### **1. Data Generation**
+## **1. Data Generation**
 - Cane toad sample call was download from A2O.
 - Training and testing datasets were generated using template detection methods.
 
-### **2. Classifier Training**
+## **2. Classifier Training**
 - The training dataset was used to develop a custom classifier in BirdNET.
 - Additional non-target vocalizations and background noise were included to enhance performance.
 
-### **3. Preliminary Assessment**
+## **3. Preliminary Assessment**
 - The trained classifier was tested on a subset of audio data from selected A2O sites.
 - Performance metrics such as precision, recall, and accuracy were evaluated across multiple temporal scales.
 
-### **4. Audio Analysis**
+## **4. Audio Analysis**
 - The classifier was applied to the full dataset.
 
-### **5. Classifier Performance Assessment**
+## **5. Classifier Performance Assessment**
 - Validation was conducted using manual verification of randomly sampled detections.
 - Probabilistic thresholds were computed to assess detection performance.
 
-### **6. Detections Optimization (Optional)**
+## **6. Detections Optimization (Optional)**
 - Aggregated time-series features (ATF) were used to refine detection outputs.
 - A conditional inference tree (CIT) model was applied to improve precision and recall.
 
