@@ -48,7 +48,7 @@ The full Australian Acoustic Observatory (A2O) dataset can be accessed at:
 - **CaneToad_BirdNET_Classifier_V072024.tflite**: The TensorFlow Lite model file for the cane toad classifier.
 - **Species_List_for_the_Classifier_V072024.txt**: A species list recognized by the classifier, including the cane toad.
 
-To use this classifier, you need to have BirdNET installed. Follow the installation and setup instructions provided in the [BirdNET-Analyzer GitHub repository](https://github.com/kahst/BirdNET-Analyzer). Please note that the classifier only works with older version of BirdNET. Currently it is not compatible with the new BirdNET 2.0.
+To use this classifier, you need to have BirdNET installed. Follow the installation and setup instructions provided in the [BirdNET-Analyzer GitHub repository](https://github.com/kahst/BirdNET-Analyzer). Please note that the classifier only works with the older version of BirdNET. Currently, it is not compatible with the new BirdNET 2.0.
 
 The full training dataset used to develop this classifier is available on Zenodo:
 
